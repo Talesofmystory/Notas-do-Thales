@@ -1,3 +1,5 @@
+#Economia #Administração #TeoriaDaFirma #RiscoMoral 
+
 A **competição interna** refere-se à existência de **atividades paralelas ou sobrepostas** dentro das fronteiras de uma mesma organização. Diferente da competição de mercado tradicional, ela ocorre quando unidades de negócio, equipes ou indivíduos disputam recursos, direitos sobre tecnologias, "charters" (fretamentos) de produtos ou progressão na carreira através de mecanismos internos de seleção.
 ## Teoria Econômica e de Administração
 
