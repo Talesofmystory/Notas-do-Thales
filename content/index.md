@@ -1,11 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Bem-Vindo às Notas do Thales
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Essas sãos as notas do Thales Mystolia de Direito, Economia e outros assuntos que achar interessante. 
 
-# TESTE UNO
+No momento o site está um pouco desorganizado, mas aos poucos vou pegando o jeito. 
 
-[[Teste Dos]]
 
